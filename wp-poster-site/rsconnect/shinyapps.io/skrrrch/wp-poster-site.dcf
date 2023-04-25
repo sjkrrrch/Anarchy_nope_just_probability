@@ -1,0 +1,13 @@
+name: wp-poster-site
+title: wp-poster-site
+username:
+account: skrrrch
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8767215
+bundleId: 7106070
+url: https://skrrrch.shinyapps.io/wp-poster-site/
+when: 1681845579.59621
+lastSyncTime: 1681845579.59623
+asMultiple: FALSE
+asStatic: FALSE
